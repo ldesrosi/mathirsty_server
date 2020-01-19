@@ -1,0 +1,10 @@
+**/logs/
+**/*.jar
+**/eula.txt
+**/terraform
+**/*.tfplan
+**/*.tfstate*
+**/localrc.sh
+**/.terraform/
+**/inventory
+**/*.retry
